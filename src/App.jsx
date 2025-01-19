@@ -5,7 +5,7 @@ import Signup from "./components/Signup";
 import FoodList from "./components/FoodList";
 import FoodSelection from "./components/FoodSelection";
 import About from "./components/About"; // Import the About page
-import Services from "./components/services";
+import Services from "./components/Services"
 import Contact from "./components/Contact";
 import ChatBot from "./components/ChatBot";
 import FoodForm from "./components/FoodForm";
